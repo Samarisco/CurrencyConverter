@@ -1,4 +1,4 @@
-# Conversor de Monedas en Java 💱
+## Conversor de Monedas en Java 💱
 
 Este es un proyecto simple en Java que te permite convertir entre diferentes monedas usando la API de ExchangeRate-API.
 
@@ -32,3 +32,5 @@ Este proyecto se encuentra en una etapa temprana. Pronto se mejorará la interfa
 
 ---
 Hecho con ❤️ por Juan Samael Amaral Bravo
+
+![Badge-Conversor](https://github.com/user-attachments/assets/994b5882-fc59-404a-b8e2-29ce8102471e)
